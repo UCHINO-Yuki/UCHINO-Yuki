@@ -1,29 +1,27 @@
-## Yuki UCHINO
+# Yuki Uchino
 
-A postdoctoral researcher at RIKEN Center for Computational Science, Japan
+  A postdoctoral researcher at RIKEN Center for Computational Science, Japan
+    
+## Contact
 
-<details open>
-  <summary>Contact</summary>
-  yuki.uchino.fe (at) riken.jp
-</details>
+  - yuki.uchino.fe (at) riken.jp
 
-<details close>
-  
-  <summary>Research History</summary>
+## History
 
-#### 2025.09-present
+### 2025.Sep.-present
 - a postdoctoral researcher at Next-Generation HPC Infrastructure System Development Unit, RIKEN Center for Computational Science
 
-#### 2024.04-present
+### 2024.Apr.-present
 - a postdoctoral researcher at Large-Scale Parallel Numerical Computing Technology Research Team, RIKEN Center for Computational Science
 
-#### 2022.04-2024.03
+### 2022.Apr.-2024.Mar.
 - Research Fellowships for Young Scientists DC1, Japan Society for the Promotion of Science
 
-#### 2022.04-2024.03
+### 2022.Apr.-2024.Mar.
 - Graduate School of Engineering and Science, Shibaura Institute of Technology (Doctoral Program)
 
-#### 2020.04-2022.03
+### 2020.Apr.-2022.Mar.
 - Graduate School of Engineering and Science, Shibaura Institute of Technology (Master's Program)
 
-</details>
+### 1997.Oct.02
+- Born
