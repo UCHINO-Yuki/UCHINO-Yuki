@@ -17,13 +17,13 @@
 
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill="#3D444D" />
 <g clip-path="url(#roundedClip)">
-	<rect x="20.000000" y="60" width="189.623000" height="10" fill="#f34b7d"> <title>C++ 51.79%</title> </rect>
-	<rect x="211.623000" y="60" width="121.543000" height="10" fill="#3A4E3A"> <title>Cuda 33.39%</title> </rect>
-	<rect x="335.166000" y="60" width="17.129000" height="10" fill="#e16737"> <title>MATLAB 5.17%</title> </rect>
-	<rect x="354.295000" y="60" width="9.655000" height="10" fill="#3572A5"> <title>Python 3.15%</title> </rect>
-	<rect x="365.950000" y="60" width="4.623000" height="10" fill="#555555"> <title>C 1.79%</title> </rect>
-	<rect x="372.573000" y="60" width="2.477000" height="10" fill="#427819"> <title>Makefile 1.21%</title> </rect>
-	<rect x="377.050000" y="60" width="1.589000" height="10" fill="#e34c26"> <title>HTML 0.97%</title> </rect>
+	<rect x="20.000000" y="60" width="189.549000" height="10" fill="#f34b7d"> <title>C++ 51.77%</title> </rect>
+	<rect x="211.549000" y="60" width="121.543000" height="10" fill="#3A4E3A"> <title>Cuda 33.39%</title> </rect>
+	<rect x="335.092000" y="60" width="17.129000" height="10" fill="#e16737"> <title>MATLAB 5.17%</title> </rect>
+	<rect x="354.221000" y="60" width="9.655000" height="10" fill="#3572A5"> <title>Python 3.15%</title> </rect>
+	<rect x="365.876000" y="60" width="4.623000" height="10" fill="#555555"> <title>C 1.79%</title> </rect>
+	<rect x="372.499000" y="60" width="2.477000" height="10" fill="#427819"> <title>Makefile 1.21%</title> </rect>
+	<rect x="376.976000" y="60" width="1.663000" height="10" fill="#e34c26"> <title>HTML 0.99%</title> </rect>
 	<rect x="380.639000" y="60" width="1.182000" height="10" fill="#DA3434"> <title>CMake 0.86%</title> </rect>
 	<rect x="383.821000" y="60" width="1.182000" height="10" fill="#3D6117"> <title>TeX 0.86%</title> </rect>
 	<rect x="387.003000" y="60" width="-0.927000" height="10" fill="#a270ba"> <title>Julia 0.29%</title> </rect>
@@ -32,7 +32,7 @@
 </g>
 
 <circle cx="30" cy="105" r="6" fill="#f34b7d" />
-<text x="46" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>C++</tspan> 51.79%</text>
+<text x="46" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>C++</tspan> 51.77%</text>
 <circle cx="225" cy="105" r="6" fill="#3A4E3A" />
 <text x="241" y="109" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Cuda</tspan> 33.39%</text>
 <circle cx="30" cy="129" r="6" fill="#e16737" />
@@ -44,7 +44,7 @@
 <circle cx="225" cy="153" r="6" fill="#427819" />
 <text x="241" y="157" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>Makefile</tspan> 1.21%</text>
 <circle cx="30" cy="177" r="6" fill="#e34c26" />
-<text x="46" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>HTML</tspan> 0.97%</text>
+<text x="46" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>HTML</tspan> 0.99%</text>
 <circle cx="225" cy="177" r="6" fill="#DA3434" />
 <text x="241" y="181" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill="currentColor"><tspan>CMake</tspan> 0.86%</text>
 <circle cx="30" cy="201" r="6" fill="#3D6117" />
